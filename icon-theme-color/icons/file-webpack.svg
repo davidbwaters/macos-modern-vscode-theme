@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <radialGradient id="file-webpack-logo-a" cx="49.594%" cy="46.923%" r="53.479%" fx="49.594%" fy="46.923%" gradientTransform="matrix(1 0 0 .86583 0 .063)">
+      <stop offset="0%" stop-color="#93B4E7"/>
+      <stop offset="59.3%" stop-color="#B9D1F8"/>
+      <stop offset="100%" stop-color="#9CB6E0"/>
+    </radialGradient>
+    <polygon id="file-webpack-logo-b" points="7 .023 .485 3.786 .485 11.314 7 15.077 13.519 11.314 13.519 3.786"/>
+    <polygon id="file-webpack-logo-c" points="7 3.841 3.769 5.708 3.769 9.44 7 11.308 10.231 9.441 10.231 5.708"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#000" fill-opacity=".05" points="6 1 6 31 26 31 26 11 16 11 16 1"/>
+    <path stroke="#151516" d="M16.5,10.5 L26.5,10.5 L26.5,31.5 L5.5,31.5 L5.5,0.5 L16.5,0.5 L16.5,10.5 Z" opacity=".65"/>
+    <path fill="none" stroke="#FFF" d="M5.5,0.5 L17.2071068,0.5 L26.5,9.79289322 L26.5,31.5 L5.5,31.5 L5.5,0.5 Z"/>
+    <path stroke="#000" d="M5.5,0.5 L17.2071068,0.5 L26.5,9.79289322 L26.5,31.5 L5.5,31.5 L5.5,0.5 Z" opacity=".65"/>
+    <path fill="#000" fill-opacity=".2" fill-rule="nonzero" d="M16,11 L26,11 L26,12 L16,12 L15,12 L15,1 L16,1 L16,11 Z"/>
+    <g fill-rule="nonzero">
+      <g transform="translate(9 14)">
+        <use fill="url(#file-webpack-logo-a)" xlink:href="#file-webpack-logo-b"/>
+        <use fill="#4E4CD0" xlink:href="#file-webpack-logo-b"/>
+        <use fill="#FFF" fill-opacity=".5" xlink:href="#file-webpack-logo-b"/>
+        <g>
+          <use fill="#6F95DB" xlink:href="#file-webpack-logo-c"/>
+          <use fill="#4E4CD0" xlink:href="#file-webpack-logo-c"/>
+        </g>
+        <path fill="#FFF" fill-opacity=".1" d="M7,0 L0.467923077,3.78915385 L7,7.34569231 L13.5320769,3.81230769 L7,0 Z M7,7.83353846 L0.467923077,11.2974615 L7,15.0629231 L13.5089231,11.2737692 L7,7.83353846 Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
