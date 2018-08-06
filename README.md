@@ -1,6 +1,6 @@
 # MacOS Modern Theme
 
-MacOS Modern is a light Visual Studio Code theme styled to match native MacOS as closely as possible.  Two color scheme variants and an icon theme are included.
+MacOS Modern is a light Visual Studio Code theme styled to match native MacOS as closely as possible.  Two color scheme variants and an icon theme are included. I HIGHLY recommend using the settings below for best results.
 
 **MacOS Modern - Xcode Low Key** + **MacOS Modern Minimal Icons**
 ![Minimal](images/screenshot1.png)
