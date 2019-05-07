@@ -46,7 +46,7 @@
         "path": "./icon-theme-color/macos-modern-icon-theme.json"
       },
       {
-        "id": "macos-modern--icon-theme",
+        "id": "macos-modern-icon-theme",
         "label": "MacOS Modern - Minimal Icon Theme",
         "path": "./icon-theme-minimal/macos-modern-icon-theme.json"
       }
