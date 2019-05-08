@@ -64,8 +64,8 @@
 		"sideBarSectionHeader.foreground": "#666666",
 		"sideBarTitle.foreground": "#444444",
 		"statusBar.background": "#ededed",
-    "statusBar.noFolderBackground" : "#ededed",
-    "statusBar.debuggingBackground": "#ededed",
+		"statusBar.noFolderBackground": "#ededed",
+		"statusBar.debuggingBackground": "#ededed",
 		"statusBar.border": "#cccccc",
 		"statusBar.foreground": "#666666",
 		"tab.activeBackground": "#dbdbdb",
@@ -239,12 +239,6 @@
 	},
 	"tokenColors": [
 		{
-			"settings": {
-				"background": "#FFFFFF",
-				"foreground": "#000000"
-			}
-		},
-		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
@@ -394,7 +388,6 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"background": "#F9267200",
 				"fontStyle": "",
 				"foreground": "#255E22"
 			}
@@ -403,7 +396,6 @@
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"background": "#AE81FF00",
 				"foreground": "#255E22"
 			}
 		}
