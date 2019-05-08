@@ -1,8 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-  <g fill="none" fill-rule="evenodd">
-    <path fill="#93DDFF" fill-rule="nonzero" stroke="#6ACCF9" d="M7.63832177,3.5 L0.5,3.5 L0.5,28.5 L31.5,28.5 L31.5,7.86363636 L11.9240361,7.86363636 L7.63832177,3.5 Z"/>
-    <path stroke="#000" d="M7.63832177,3.5 L0.5,3.5 L0.5,28.5 L31.5,28.5 L31.5,7.86363636 L11.9240361,7.86363636 L7.63832177,3.5 Z" opacity=".704"/>
-    <rect width="30" height="16" x="1" y="12" fill="#6ACCF9"/>
-    <path stroke="#000" stroke-linecap="square" d="M1.5,12.5 L30.5,12.5" opacity=".4"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>Folder</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0.379526218%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#69CBF8" offset="0%"></stop>
+            <stop stop-color="#69CBF8" offset="26.8739443%"></stop>
+            <stop stop-color="#75D2FA" offset="49.8563497%"></stop>
+            <stop stop-color="#7AD4FB" offset="72.5376545%"></stop>
+            <stop stop-color="#64BEE9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-368.000000, -60.000000)">
+            <g id="Vector" transform="translate(112.000000, 32.000000)">
+                <g id="Folder---Color" transform="translate(256.000000, 0.000000)">
+                    <g id="Folder---32" transform="translate(0.000000, 28.000000)">
+                        <g id="Vector" transform="translate(1.000000, 3.777778)">
+                            <path d="M11.4142136,2.22222222 L29,2.22222222 C29.5522847,2.22222222 30,2.66993747 30,3.22222222 L30,22.2222222 C30,22.774507 29.5522847,23.2222222 29,23.2222222 L1,23.2222222 C0.44771525,23.2222222 0,22.774507 0,22.2222222 L0,1.22222222 C0,0.669937472 0.44771525,0.222222222 1,0.222222222 L9,0.222222222 C9.26521649,0.222222222 9.5195704,0.327579063 9.70710678,0.515115441 L11.4142136,2.22222222 Z" id="Shadow" fill-opacity="0.1" fill="#000000" fill-rule="nonzero"></path>
+                            <path d="M11.6213203,2.72222222 L29,2.72222222 C29.8284271,2.72222222 30.5,3.3937951 30.5,4.22222222 L30.5,23.2222222 C30.5,24.0506493 29.8284271,24.7222222 29,24.7222222 L1,24.7222222 C0.171572875,24.7222222 -0.5,24.0506493 -0.5,23.2222222 L-0.5,1.22222222 C-0.5,0.393795097 0.171572875,-0.277777778 1,-0.277777778 L8,-0.277777778 C8.39782473,-0.277777778 8.7793556,-0.119742517 9.06066017,0.16156205 L11.6213203,2.72222222 Z" id="Folder" stroke-opacity="0.03" stroke="#000000" fill="#95DCFD" fill-rule="nonzero"></path>
+                            <path d="M30,23.2222222 C30,23.774507 29.5522847,24.2222222 29,24.2222222 L1,24.2222222 C0.44771525,24.2222222 0,23.774507 0,23.2222222 L0,4.22222222 L30,4.22222222 L30,23.2222222 Z" id="Lower" fill="url(#linearGradient-1)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>
