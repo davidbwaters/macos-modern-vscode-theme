@@ -1,8 +1,8 @@
 {
-  "name": "macos-modern-theme",
+  "name": "macos-modern-theme-dev",
   "displayName": "MacOS Modern Theme",
   "description": "MacOS Modern is a theme pack styled to match native MacOS as closely as possible. Use recommended settings in the README.md for best results.",
-  "version": "1.1.5",
+  "version": "1.1.4",
   "publisher": "davidbwaters",
   "engines": {
     "vscode": "^1.25.0"
