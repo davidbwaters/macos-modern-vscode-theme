@@ -4,7 +4,14 @@
     <title>Folder</title>
     <desc>Created with Sketch.</desc>
     <defs>
-        <linearGradient x1="50%" y1="0.379526218%" x2="50%" y2="100%" id="linearGradient-1">
+        <path d="M11.4142136,3.22222222 L29,3.22222222 C29.5522847,3.22222222 30,3.66993747 30,4.22222222 L30,23.2222222 C30,23.774507 29.5522847,24.2222222 29,24.2222222 L1,24.2222222 C0.44771525,24.2222222 0,23.774507 0,23.2222222 L0,1.22222222 C0,0.669937472 0.44771525,0.222222222 1,0.222222222 L8,0.222222222 C8.26521649,0.222222222 8.5195704,0.327579063 8.70710678,0.515115441 L11.4142136,3.22222222 Z" id="path-1"></path>
+        <filter x="-10.0%" y="-12.5%" width="120.0%" height="125.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.6 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0.379526218%" x2="50%" y2="100%" id="linearGradient-3">
             <stop stop-color="#69CBF8" offset="0%"></stop>
             <stop stop-color="#69CBF8" offset="26.8739443%"></stop>
             <stop stop-color="#75D2FA" offset="49.8563497%"></stop>
@@ -13,16 +20,16 @@
         </linearGradient>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard" transform="translate(-368.000000, -60.000000)">
-            <g id="Vector" transform="translate(112.000000, 32.000000)">
-                <g id="Folder---Color" transform="translate(256.000000, 0.000000)">
-                    <g id="Folder---32" transform="translate(0.000000, 28.000000)">
-                        <g id="Vector" transform="translate(1.000000, 3.777778)">
-                            <path d="M11.4142136,2.22222222 L29,2.22222222 C29.5522847,2.22222222 30,2.66993747 30,3.22222222 L30,22.2222222 C30,22.774507 29.5522847,23.2222222 29,23.2222222 L1,23.2222222 C0.44771525,23.2222222 0,22.774507 0,22.2222222 L0,1.22222222 C0,0.669937472 0.44771525,0.222222222 1,0.222222222 L9,0.222222222 C9.26521649,0.222222222 9.5195704,0.327579063 9.70710678,0.515115441 L11.4142136,2.22222222 Z" id="Shadow" fill-opacity="0.1" fill="#000000" fill-rule="nonzero"></path>
-                            <path d="M11.6213203,2.72222222 L29,2.72222222 C29.8284271,2.72222222 30.5,3.3937951 30.5,4.22222222 L30.5,23.2222222 C30.5,24.0506493 29.8284271,24.7222222 29,24.7222222 L1,24.7222222 C0.171572875,24.7222222 -0.5,24.0506493 -0.5,23.2222222 L-0.5,1.22222222 C-0.5,0.393795097 0.171572875,-0.277777778 1,-0.277777778 L8,-0.277777778 C8.39782473,-0.277777778 8.7793556,-0.119742517 9.06066017,0.16156205 L11.6213203,2.72222222 Z" id="Folder" stroke-opacity="0.03" stroke="#000000" fill="#95DCFD" fill-rule="nonzero"></path>
-                            <path d="M30,23.2222222 C30,23.774507 29.5522847,24.2222222 29,24.2222222 L1,24.2222222 C0.44771525,24.2222222 0,23.774507 0,23.2222222 L0,4.22222222 L30,4.22222222 L30,23.2222222 Z" id="Lower" fill="url(#linearGradient-1)"></path>
-                        </g>
+        <g id="Artboard" transform="translate(-33.000000, -64.000000)">
+            <g id="Folder" transform="translate(33.000000, 64.000000)">
+                <g id="Vector" transform="translate(1.000000, 3.777778)">
+                    <g id="Shadow" fill-rule="nonzero" fill="black" fill-opacity="1">
+                        <use filter="url(#filter-2)" xlink:href="#path-1"></use>
                     </g>
+                    <path d="M11.4142136,2.22222222 L29,2.22222222 C29.5522847,2.22222222 30,2.66993747 30,3.22222222 L30,22.2222222 C30,22.774507 29.5522847,23.2222222 29,23.2222222 L1,23.2222222 C0.44771525,23.2222222 0,22.774507 0,22.2222222 L0,1.22222222 C0,0.669937472 0.44771525,0.222222222 1,0.222222222 L9,0.222222222 C9.26521649,0.222222222 9.5195704,0.327579063 9.70710678,0.515115441 L11.4142136,2.22222222 Z" id="Background" fill-opacity="0.1" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M11.4142136,3.22222222 L29,3.22222222 C29.5522847,3.22222222 30,3.66993747 30,4.22222222 L30,23.2222222 C30,23.774507 29.5522847,24.2222222 29,24.2222222 L1,24.2222222 C0.44771525,24.2222222 0,23.774507 0,23.2222222 L0,1.22222222 C0,0.669937472 0.44771525,0.222222222 1,0.222222222 L8,0.222222222 C8.26521649,0.222222222 8.5195704,0.327579063 8.70710678,0.515115441 L11.4142136,3.22222222 Z" id="Folder" fill="#95DCFD" fill-rule="nonzero"></path>
+                    <path d="M30,23.2222222 C30,23.774507 29.5522847,24.2222222 29,24.2222222 L1,24.2222222 C0.44771525,24.2222222 0,23.774507 0,23.2222222 L0,4.22222222 L30,4.22222222 L30,23.2222222 Z" id="Lower" fill="url(#linearGradient-3)"></path>
+                    <g id="Side-Tint" transform="translate(0.000000, 0.222222)"></g>
                 </g>
             </g>
         </g>

@@ -1,60 +1,67 @@
 {
-  "name": "macos-modern-theme",
-  "displayName": "MacOS Modern Theme",
-  "description": "MacOS Modern is a theme pack styled to match native MacOS as closely as possible. Use recommended settings in the README.md for best results.",
-  "version": "1.1.5",
-  "publisher": "davidbwaters",
-  "engines": {
-    "vscode": "^1.25.0"
-  },
-  "keywords": [
-    "color-theme",
-    "icon-theme",
-    "macos",
-    "native",
-    "mojave"
-  ],
-  "preview": false,
-  "homepage": "https://github.com/davidbwaters/macos-modern-vscode-theme-dev",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/davidbwaters/macos-modern-vscode-theme-dev.git"
-  },
-  "icon": "resources/icon-light.png",
-  "galleryBanner": {
-    "color": "#0F0F0F",
-    "theme": "dark"
-  },
-  "categories": ["Themes"],
-  "contributes": {
-    "themes": [
-      {
-        "label": "MacOS Modern - Xcode Low Key",
-        "uiTheme": "vs",
-        "path": "./themes/macos-modern-low-key-color-theme.json"
-      },
-      {
-        "label": "MacOS Modern - Xcode Default",
-        "uiTheme": "vs",
-        "path": "./themes/macos-modern-xcode-color-theme.json"
-      }
-    ],
-    "iconThemes": [
-      {
-        "id": "macos-modern-color-icon-theme",
-        "label": "MacOS Modern - Color Icon Theme",
-        "path": "./icon-theme-color/macos-modern-icon-theme.json"
-      },
-      {
-        "id": "macos-modern-icon-theme",
-        "label": "MacOS Modern - Minimal Monochrome Icon Theme",
-        "path": "./icon-theme-minimal-mono/macos-modern-icon-theme.json"
-      },
-      {
-        "id": "macos-modern-icon-theme",
-        "label": "MacOS Modern - Minimal Color Icon Theme",
-        "path": "./icon-theme-minimal-color/macos-modern-icon-theme.json"
-      }
-    ]
-  }
+	"name": "macos-modern-theme",
+	"displayName": "MacOS Modern Theme",
+	"description": "MacOS Modern is a theme pack styled to match native MacOS as closely as possible. Use recommended settings in the README.md for best results.",
+	"version": "1.1.6",
+	"publisher": "davidbwaters",
+	"engines": {
+		"vscode": "^1.25.0"
+	},
+	"keywords": [
+		"color-theme",
+		"icon-theme",
+		"macos",
+		"native",
+		"mojave"
+	],
+	"preview": false,
+	"homepage": "https://github.com/davidbwaters/macos-modern-vscode-theme-dev",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/davidbwaters/macos-modern-vscode-theme-dev.git"
+	},
+	"icon": "resources/icon-light.png",
+	"galleryBanner": {
+		"color": "#0F0F0F",
+		"theme": "dark"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "MacOS Modern - Xcode Low Key",
+				"uiTheme": "vs",
+				"path": "./themes/macos-modern-low-key-color-theme.json"
+			},
+			{
+				"label": "MacOS Modern - Xcode Default",
+				"uiTheme": "vs",
+				"path": "./themes/macos-modern-xcode-color-theme.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "macos-modern-color-icon-theme",
+				"label": "MacOS Modern - Legit Color Icons",
+				"path": "./icon-theme-color/macos-modern-icon-theme.json"
+			},
+			{
+				"id": "macos-modern-icon-theme",
+				"label": "MacOS Modern - Minimal Monochrome Icons",
+				"path": "./icon-theme-minimal-mono/macos-modern-icon-theme.json"
+			},
+			{
+				"id": "macos-modern-icon-theme",
+				"label": "MacOS Modern - Minimal Color Icons",
+				"path": "./icon-theme-minimal-color/macos-modern-icon-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "1dc2891e-d2c4-44c0-97c5-237169b9d350",
+		"publisherDisplayName": "davidbwaters",
+		"publisherId": "b79137a4-e464-40ad-8b3b-1ba537b73a00"
+	}
 }
