@@ -2,7 +2,7 @@
 	"name": "macos-modern-theme",
 	"displayName": "MacOS Modern Theme",
 	"description": "MacOS Modern is a theme pack styled to match native MacOS as closely as possible. Use recommended settings in the README.md for best results.",
-	"version": "1.1.7",
+	"version": "1.2.0",
 	"publisher": "davidbwaters",
 	"engines": {
 		"vscode": "^1.25.0"
@@ -14,13 +14,13 @@
 		"native",
 		"mojave"
 	],
-	"preview": false,
+	"preview": true,
 	"homepage": "https://github.com/davidbwaters/macos-modern-vscode-theme",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/davidbwaters/macos-modern-vscode-theme.git"
 	},
-	"icon": "resources/icon-light.png",
+	"icon": "images/icon-light.png",
 	"galleryBanner": {
 		"color": "#0F0F0F",
 		"theme": "dark"
@@ -31,31 +31,36 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "MacOS Modern - Xcode Low Key",
+				"label": "MacOS Modern Light - Xcode Default",
 				"uiTheme": "vs",
-				"path": "./themes/macos-modern-low-key-color-theme.json"
+				"path": "./themes/light/xcode-default.json"
 			},
 			{
-				"label": "MacOS Modern - Xcode Default",
+				"label": "MacOS Modern Light - Xcode Low Key",
 				"uiTheme": "vs",
-				"path": "./themes/macos-modern-xcode-color-theme.json"
+				"path": "./themes/color/light/xcode-low-key.json"
+			},
+			{
+				"label": "MacOS Modern Dark - Xcode Low Key",
+				"uiTheme": "vs",
+				"path": "./themes/color/dark/xcode-low-key.json"
 			}
 		],
 		"iconThemes": [
 			{
 				"id": "macos-modern-color-icon-theme",
 				"label": "MacOS Modern - Legit Color Icons",
-				"path": "./icon-theme-color/macos-modern-icon-theme.json"
+				"path": "./themes/icon/legit-color/theme.json"
 			},
 			{
 				"id": "macos-modern-icon-theme",
 				"label": "MacOS Modern - Minimal Monochrome Icons",
-				"path": "./icon-theme-minimal-mono/macos-modern-icon-theme.json"
+				"path": "./themes/icon/minimal-mono/theme.json"
 			},
 			{
 				"id": "macos-modern-icon-theme",
 				"label": "MacOS Modern - Minimal Color Icons",
-				"path": "./icon-theme-minimal-color/macos-modern-icon-theme.json"
+				"path": "./themes/icon/minimal-color/theme.json"
 			}
 		]
 	},
