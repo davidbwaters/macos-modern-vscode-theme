@@ -13,7 +13,6 @@
 
   "folderNames": {
     "node_modules": "_folder",
-    "vendor": "_folder",
     "vendor": "_folder"
   },
   "fileExtensions": {
