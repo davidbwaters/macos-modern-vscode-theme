@@ -1,6 +1,6 @@
 # MacOS Modern Theme
 
-MacOS Modern is a light Visual Studio Code theme styled to match native MacOS as closely as possible.  Two color scheme variants and an icon theme are included. I HIGHLY recommend using the settings below for best results.
+MacOS Modern is a set of Visual Studio Code themes styled to match native MacOS as closely as possible.  Updated to include dark + light versions and a few minimal icon themes. I HIGHLY recommend using the settings below for best results.
 
 **MacOS Modern - Xcode Low Key** + **MacOS Modern Minimal Icons**
 ![Minimal](https://github.com/davidbwaters/macos-modern-vscode-theme/raw/master/images/screenshot1.png)
@@ -77,4 +77,4 @@ Light and dark VSCode icons are also included in full quality (don't use the sma
 `~/.vscode/extensions/davidbwaters.macos-modern-theme/extras`  
 You could also download the files from the repo [folder](https://github.com/davidbwaters/macos-modern-vscode-theme/tree/master/extras) by clicking the name of the `icns` or `png` and clicking the "Download" button. You can use the free app [LiteIcon](https://freemacsoft.net/liteicon/) to change the icon.
 
-![Dark](https://github.com/davidbwaters/macos-modern-vscode-theme/raw/master/extras/app-icons/dark.png) ![Light](https://github.com/davidbwaters/macos-modern-vscode-theme/raw/master/extras/app-icons/light.png)
+![Dark](https://github.com/davidbwaters/macos-modern-vscode-theme/raw/master/images/icon-dark.png) ![Light](https://github.com/davidbwaters/macos-modern-vscode-theme/raw/master/images/icon-light.png)
