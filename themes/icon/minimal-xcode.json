@@ -1,16 +1,15 @@
 {
   "iconDefinitions": {
     "_folder": {
-      "iconPath": "./icons/folder-generic.svg"
+      "iconPath": "./icons/minimal-xcode/folder-generic-lg.png"
     },
     "_file": {
-      "iconPath": "./icons/file-generic.svg"
+      "iconPath": "./icons/minimal-xcode/file-generic-lg.png"
     }
   },
   "file": "_file",
   "folder": "_folder",
   "folderExpanded": "_folder",
-
   "folderNames": {
     "node_modules": "_folder",
     "vendor": "_folder"

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>folder-generic</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Xcode-Yellow-Minimal" transform="translate(-38.000000, 0.000000)">
+            <g id="Folder---16" transform="translate(38.000000, 0.000000)">
+                <path d="M6.61803399,2 L15,2 C15.5522847,2 16,2.44771525 16,3 L16,13 C16,13.5522847 15.5522847,14 15,14 L1,14 C0.44771525,14 0,13.5522847 0,13 L0,1 C0,0.44771525 0.44771525,0 1,0 L5,0 C5.37877206,0 5.72503518,0.214002376 5.89442719,0.552786405 L6.61803399,2 Z" id="Outer" fill="#E0BC3F" fill-rule="nonzero"></path>
+                <polygon id="Inner" fill="#F9DB68" fill-rule="nonzero" points="1 1 1 13 15 13 15 3 6 3 5 1"></polygon>
+                <rect id="Line" stroke="#E0BC3F" fill="#D8D8D8" x="1.5" y="4.5" width="13" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

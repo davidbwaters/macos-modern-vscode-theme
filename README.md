@@ -1,9 +1,12 @@
 # MacOS Modern Theme
 
-MacOS Modern is a set of Visual Studio Code themes styled to match native MacOS as closely as possible.  Updated to include dark + light versions and a few minimal icon themes. I HIGHLY recommend using the settings below for best results.
+MacOS Modern is a set of Visual Studio Code themes styled to match native MacOS as closely as possible.  Updated to include dark + light versions and a few minimal icon themes. Reapply both (icon and color) themes if you have problems. I HIGHLY recommend using the settings below for best results. Screenshots need to be updated; there is a lot more options now.
 
 **MacOS Modern - Xcode Low Key** + **MacOS Modern Minimal Icons**
 ![Minimal](https://github.com/davidbwaters/macos-modern-vscode-theme/raw/master/images/screenshot1.png)
+
+** dark **
+![dark](https://github.com/davidbwaters/macos-modern-vscode-theme/raw/master/images/screenshot1b.png)
 
 **MacOS Modern - Xcode Default** + **MacOS Modern - Color Icons**
 ![Xcode](https://github.com/davidbwaters/macos-modern-vscode-theme/raw/master/images/screenshot2.png)
@@ -13,7 +16,7 @@ MacOS Modern is a set of Visual Studio Code themes styled to match native MacOS 
 
 ---
 
-## Setup & Tweaks 
+## Setup & Tweaks
 
 There are a few settings that should be added to your User Settings to really transform the look to better match OS X.  The zoom level and native title bar make a huge difference in the overall look of VSCode.  I also prefer to hide the Activity Bar, which can be done from the View menu.
 
@@ -73,8 +76,18 @@ You can change the activity bar badge background with these settings. Add the li
 
 ## Extras
 
-Light and dark VSCode icons are also included in full quality (don't use the small preview below) in the extension folder in:  
-`~/.vscode/extensions/davidbwaters.macos-modern-theme/extras`  
+Light and dark VSCode icons are also included in full quality (don't use the small preview below) on the GitHub repo or in the extension folder in:  
+`~/.vscode/extensions/davidbwaters.macos-modern-theme/extras/app-icons`  
 You could also download the files from the repo [folder](https://github.com/davidbwaters/macos-modern-vscode-theme/tree/master/extras) by clicking the name of the `icns` or `png` and clicking the "Download" button. You can use the free app [LiteIcon](https://freemacsoft.net/liteicon/) to change the icon.
 
 ![Dark](https://github.com/davidbwaters/macos-modern-vscode-theme/raw/master/images/icon-dark.png) ![Light](https://github.com/davidbwaters/macos-modern-vscode-theme/raw/master/images/icon-light.png)
+
+There are also Sketch design files with all the icons. Feel free to use, tweak, add, etc. If you find them useful, a shoutout would be appreciated.
+
+
+---
+
+David B. Waters
+
+:) :) :)
+

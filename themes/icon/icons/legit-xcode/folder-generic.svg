@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>folder-generic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F3C84A" offset="0%"></stop>
+            <stop stop-color="#F6DB6C" offset="70%"></stop>
+            <stop stop-color="#F6DB6C" offset="82.3529412%"></stop>
+            <stop stop-color="#F0CF51" offset="95.8823529%"></stop>
+            <stop stop-color="#F0CF51" offset="95.8823529%"></stop>
+            <stop stop-color="#F0CF51" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Xcode-Yellow-Detail" transform="translate(-37.000000, 0.000000)" fill-rule="nonzero">
+            <g id="Folder---32" transform="translate(36.500000, 0.000000)">
+                <path d="M8.11569036,2 L15.5,2 C16.0522847,2 16.5,2.44771525 16.5,3 C16.5,3.66666667 16.5,4.16666667 16.5,4.5 C16.5,6.38888889 16.5,9.22222222 16.5,13 C16.5,13.5522847 16.0522847,14 15.5,14 L1.5,14 C0.94771525,14 0.5,13.5522847 0.5,13 L0.5,1 C0.5,0.44771525 0.94771525,0 1.5,0 L6.5,0 C6.93476444,0 7.3047271,0.277449417 7.44248949,0.664949768 L8.11569036,2 Z" id="Body" fill="#E0BC3F"></path>
+                <path d="M1,2.5 L1,13 C1,13.2761424 1.22385763,13.5 1.5,13.5 L15.5,13.5 C15.7761424,13.5 16,13.2761424 16,13 L16,3 C16,2.72385763 15.7761424,2.5 15.5,2.5 L1,2.5 Z" id="Lower" fill="url(#linearGradient-1)"></path>
+                <path d="M1,2 L1,1 C1,0.723857625 1.22385763,0.5 1.5,0.5 L6.5,0.5 C6.71332982,0.5 6.90113034,0.634849148 6.97137619,0.832437859 L7.55643099,2 L1,2 Z" id="Tab" fill="#F7D965"></path>
+            </g>
+        </g>
+    </g>
+</svg>

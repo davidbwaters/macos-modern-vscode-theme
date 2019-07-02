@@ -2,7 +2,7 @@
 	"name": "macos-modern-theme",
 	"displayName": "MacOS Modern Theme",
 	"description": "MacOS Modern is a theme pack styled to match native MacOS as closely as possible. Use recommended settings in the README.md for best results.",
-	"version": "1.3.3",
+	"version": "1.5.0",
 	"publisher": "davidbwaters",
 	"engines": {
 		"vscode": "^1.25.0"
@@ -58,24 +58,34 @@
 		],
 		"iconThemes": [
 			{
-				"id": "macos-modern-finder-icon-theme",
-				"label": "MacOS Modern - Finder Icons",
-				"path": "./themes/icon/finder-color/theme.json"
+				"id": "macos-modern-legit-finder-icon-theme",
+				"label": "MacOS Modern - Legit Finder Icons",
+				"path": "./themes/icon/legit-finder.json"
 			},
+      {
+        "id": "macos-modern-legit-xcode-icon-theme",
+        "label": "MacOS Modern - Legit Xcode Icons",
+        "path": "./themes/icon/legit-xcode.json"
+      },
 			{
-				"id": "macos-modern-minimal-icon-theme",
-				"label": "MacOS Modern - Minimal Color Icons",
-				"path": "./themes/icon/minimal-color/theme.json"
+				"id": "macos-modern-minimal-finder-icon-theme",
+				"label": "MacOS Modern - Minimal Finder Icons",
+				"path": "./themes/icon/minimal-finder.json"
 			},
+      {
+        "id": "macos-modern-minimal-xcode-icon-theme",
+        "label": "MacOS Modern - Minimal Xcode Icons",
+        "path": "./themes/icon/minimal-xcode.json"
+      },
 			{
 				"id": "macos-modern-minimal-mono-icon-theme",
 				"label": "MacOS Modern - Minimal Monochrome Icons",
-				"path": "./themes/icon/minimal-mono/theme.json"
+				"path": "./themes/icon/minimal-mono.json"
 			}
 		]
 	},
 	"__metadata": {
-		"id": "1dc2891e-d2c4-44c0-97c5-237169b9d350",
+		"id": "ad4ee4d7-9d78-49e4-801e-b2fef4eaff6e",
 		"publisherDisplayName": "davidbwaters",
 		"publisherId": "b79137a4-e464-40ad-8b3b-1ba537b73a00"
 	}

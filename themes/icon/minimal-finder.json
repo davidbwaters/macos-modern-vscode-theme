@@ -1,0 +1,59 @@
+{
+  "iconDefinitions": {
+    "_folder": {
+      "iconPath": "./icons/minimal-finder/folder-generic-lg.png"
+    },
+    "_file": {
+      "iconPath": "./icons/minimal-finder/file-generic-lg.png"
+    }
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderExpanded": "_folder",
+  "folderNames": {
+    "node_modules": "_folder",
+    "vendor": "_folder"
+  },
+  "fileExtensions": {
+    "c": "_file",
+    "go": "_file",
+    "rb": "_file",
+    "ru": "_file",
+    "rs": "_file",
+    "cr": "_file",
+    "py": "_file",
+    "java": "_file",
+    "php": "_file",
+    "js": "_file",
+    "es6": "_file",
+    "coffee": "_file",
+    "css": "_file",
+    "less": "_file",
+    "sass": "_file",
+    "scss": "_file",
+    "json": "_file",
+    "cpp": "_file",
+    "bash": "_file",
+    "md": "_file",
+    "textile": "_file",
+    "rdoc": "_file",
+    "txt": "_file",
+    "json": "_file",
+    "yml": "_file",
+    "ini": "_file",
+    "conf": "_file",
+    "properties": "_file",
+    "toml": "_file",
+    "xml": "_file",
+    "log": "_file"
+  },
+  "fileNames": {
+    "license": "_file",
+    "package.json": "_file",
+    "gemfile": "_file",
+    "makefile": "_file",
+    "rakefile": "_file",
+    "procfile": "_file",
+    "Dockerfile": "_file"
+  }
+}

@@ -4,8 +4,9 @@
     <title>file-generic</title>
     <desc>Created with Sketch.</desc>
     <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="File---16">
-            <g id="file" transform="translate(2.000000, 0.000000)">
+        <g id="Finder-Color">
+            <g id="File---16" transform="translate(2.000000, 0.000000)">
+                <polygon id="body" fill="#FFFFFF" points="1 1 7 1 7 2 8 2 8 3 9 3 9 4 10 4 10 5 11 5 11 15 1 15"></polygon>
                 <g id="bottom" transform="translate(0.000000, 15.000000)" fill="#000000">
                     <rect id="5" fill-opacity="0.12" x="11" y="0" width="1" height="1"></rect>
                     <rect id="4" fill-opacity="0.26" x="10" y="0" width="1" height="1"></rect>
@@ -30,7 +31,6 @@
                     <rect id="2" fill-opacity="0.18" x="1" y="0" width="3" height="1"></rect>
                     <rect id="1" fill-opacity="0.16" x="0" y="0" width="1" height="1"></rect>
                 </g>
-                <polygon id="body" fill="#FFFFFF" points="1 1 7 1 7 2 8 2 8 3 9 3 9 4 10 4 10 5 11 5 11 15 1 15"></polygon>
                 <g id="corner" transform="translate(7.000000, 1.000000)" fill="#000000">
                     <g id="outer-2" transform="translate(1.000000, 0.000000)">
                         <rect id="5" fill-opacity="0.1" opacity="0.2" x="3" y="3" width="1" height="1"></rect>

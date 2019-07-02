@@ -4,8 +4,8 @@
     <title>folder-generic</title>
     <desc>Created with Sketch.</desc>
     <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Folder---16">
-            <g id="folder">
+        <g id="Finder-Color" transform="translate(-38.000000, 0.000000)">
+            <g id="Folder---16" transform="translate(38.000000, 0.000000)">
                 <g id="body" transform="translate(1.000000, 3.000000)">
                     <rect fill="#77D0FA" x="0" y="0" width="14" height="10"></rect>
                     <g id="gradient" fill-rule="nonzero">
@@ -31,7 +31,6 @@
                     <rect id="right-2" fill="#5EAFD6" x="0" y="4" width="1" height="2"></rect>
                     <rect id="right-1" fill="#60B3D7" x="0" y="0" width="1" height="4"></rect>
                 </g>
-                <rect id="left" fill="#54AAD3" x="0" y="3" width="1" height="9"></rect>
                 <g id="upper">
                     <rect id="corner-right" fill="#B9FFFF" x="15" y="2" width="1" height="1"></rect>
                     <rect id="corner-left" fill="#C5FFFF" x="0" y="0" width="1" height="1"></rect>
@@ -39,6 +38,7 @@
                     <rect id="right" fill="#7AC8E9" x="6" y="1" width="1" height="1"></rect>
                     <rect id="top" fill="#71BCDC" x="1" y="0" width="5" height="1"></rect>
                 </g>
+                <rect id="left" fill="#54AAD3" x="0" y="3" width="1" height="9"></rect>
                 <rect id="top" fill="#91DCFF" x="1" y="1" width="5" height="1"></rect>
             </g>
         </g>

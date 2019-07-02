@@ -1,0 +1,116 @@
+{
+  "iconDefinitions": {
+    "_folder": {
+      "iconPath": "./icons/minimal-mono/folder-generic-lg.png"
+    },
+    "_file": {
+      "iconPath": "./icons/minimal-mono/file-generic-lg.png"
+    },
+    "_folder-lt": {
+      "iconPath": "./icons/minimal-mono/folder-generic-light-lg.png"
+    },
+    "_file-lt": {
+      "iconPath": "./icons/minimal-mono/file-generic-light-lg.png"
+    }
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderExpanded": "_folder",
+  "folderNames": {
+    "node_modules": "_folder",
+    "vendor": "_folder"
+  },
+  "fileExtensions": {
+    "c": "_file",
+    "go": "_file",
+    "rb": "_file",
+    "ru": "_file",
+    "rs": "_file",
+    "cr": "_file",
+    "py": "_file",
+    "java": "_file",
+    "php": "_file",
+    "js": "_file",
+    "es6": "_file",
+    "coffee": "_file",
+    "css": "_file",
+    "less": "_file",
+    "sass": "_file",
+    "scss": "_file",
+    "json": "_file",
+    "cpp": "_file",
+    "bash": "_file",
+    "md": "_file",
+    "textile": "_file",
+    "rdoc": "_file",
+    "txt": "_file",
+    "json": "_file",
+    "yml": "_file",
+    "ini": "_file",
+    "conf": "_file",
+    "properties": "_file",
+    "toml": "_file",
+    "xml": "_file",
+    "log": "_file"
+  },
+  "fileNames": {
+    "license": "_file",
+    "package.json": "_file",
+    "gemfile": "_file",
+    "makefile": "_file",
+    "rakefile": "_file",
+    "procfile": "_file",
+    "Dockerfile": "_file"
+  },
+  "light": {
+    "file": "_file-lt",
+    "folder": "_folder-lt",
+    "folderExpanded": "_folder-lt",
+    "folderNames": {
+      "node_modules": "_folder-lt",
+      "vendor": "_folder-lt"
+    },
+    "fileExtensions": {
+      "c": "_file-lt",
+      "go": "_file-lt",
+      "rb": "_file-lt",
+      "ru": "_file-lt",
+      "rs": "_file-lt",
+      "cr": "_file-lt",
+      "py": "_file-lt",
+      "java": "_file-lt",
+      "php": "_file-lt",
+      "js": "_file-lt",
+      "es6": "_file-lt",
+      "coffee": "_file-lt",
+      "css": "_file-lt",
+      "less": "_file-lt",
+      "sass": "_file-lt",
+      "scss": "_file-lt",
+      "json": "_file-lt",
+      "cpp": "_file-lt",
+      "bash": "_file-lt",
+      "md": "_file-lt",
+      "textile": "_file-lt",
+      "rdoc": "_file-lt",
+      "txt": "_file-lt",
+      "json": "_file-lt",
+      "yml": "_file-lt",
+      "ini": "_file-lt",
+      "conf": "_file-lt",
+      "properties": "_file-lt",
+      "toml": "_file-lt",
+      "xml": "_file-lt",
+      "log": "_file-lt"
+    },
+    "fileNames": {
+      "license": "_file-lt",
+      "package.json": "_file-lt",
+      "gemfile": "_file-lt",
+      "makefile": "_file-lt",
+      "rakefile": "_file-lt",
+      "procfile": "_file-lt",
+      "Dockerfile": "_file-lt"
+    }
+  }
+}

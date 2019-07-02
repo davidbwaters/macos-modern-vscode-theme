@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>file-generic</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Xcode-Yellow-Detail">
+            <g id="File---16" transform="translate(2.000000, 0.000000)">
+                <polygon id="body" fill="#FFFFFF" points="1 1 7 1 7 2 8 2 8 3 9 3 9 4 10 4 10 5 11 5 11 15 1 15"></polygon>
+                <g id="bottom" transform="translate(0.000000, 15.000000)" fill="#000000">
+                    <rect id="5" fill-opacity="0.12" x="11" y="0" width="1" height="1"></rect>
+                    <rect id="4" fill-opacity="0.26" x="10" y="0" width="1" height="1"></rect>
+                    <rect id="3" fill-opacity="0.28" x="2" y="0" width="8" height="1"></rect>
+                    <rect id="2" fill-opacity="0.26" x="1" y="0" width="1" height="1"></rect>
+                    <rect id="1" fill-opacity="0.12" x="0" y="0" width="1" height="1"></rect>
+                </g>
+                <g id="right" transform="translate(11.000000, 6.000000)" fill="#000000">
+                    <rect id="3" fill-opacity="0.16" x="0" y="8" width="1" height="1"></rect>
+                    <rect id="2" fill-opacity="0.18" x="0" y="1" width="1" height="7"></rect>
+                    <rect id="1" fill-opacity="0.16" x="0" y="0" width="1" height="1"></rect>
+                </g>
+                <g id="left" fill="#000000">
+                    <rect id="4" fill-opacity="0.12" opacity="0.400000006" x="0" y="15" width="1" height="1"></rect>
+                    <rect id="3" fill-opacity="0.2" x="0" y="2" width="1" height="13"></rect>
+                    <rect id="2" fill-opacity="0.16" x="0" y="1" width="1" height="1"></rect>
+                    <rect id="1" fill-opacity="0.12" x="0" y="0" width="1" height="1"></rect>
+                </g>
+                <g id="top" transform="translate(1.000000, 0.000000)" fill="#000000">
+                    <rect id="4" fill-opacity="0.12" x="5" y="0" width="1" height="1"></rect>
+                    <rect id="3" fill-opacity="0.16" x="4" y="0" width="1" height="1"></rect>
+                    <rect id="2" fill-opacity="0.18" x="1" y="0" width="3" height="1"></rect>
+                    <rect id="1" fill-opacity="0.16" x="0" y="0" width="1" height="1"></rect>
+                </g>
+                <g id="corner" transform="translate(7.000000, 1.000000)" fill="#000000">
+                    <g id="outer-2" transform="translate(1.000000, 0.000000)">
+                        <rect id="5" fill-opacity="0.1" opacity="0.2" x="3" y="3" width="1" height="1"></rect>
+                        <rect id="4" fill-opacity="0.12" opacity="0.3" x="2" y="2" width="1" height="1"></rect>
+                        <rect id="3" fill-opacity="0.12" opacity="0.3" x="1" y="1" width="1" height="1"></rect>
+                        <rect id="2" fill-opacity="0.14" opacity="0.1" x="0" y="0" width="1" height="1"></rect>
+                    </g>
+                    <g id="outer-1">
+                        <rect id="5" fill-opacity="0.22" opacity="0.5" x="4" y="4" width="1" height="1"></rect>
+                        <rect id="4" fill-opacity="0.15" x="3" y="3" width="1" height="1"></rect>
+                        <rect id="3" fill-opacity="0.16" x="2" y="2" width="1" height="1"></rect>
+                        <rect id="2" fill-opacity="0.14" x="1" y="1" width="1" height="1"></rect>
+                        <rect id="1" fill-opacity="0.14" x="0" y="0" width="1" height="1"></rect>
+                    </g>
+                </g>
+                <g id="fold" transform="translate(6.000000, 1.000000)">
+                    <rect id="9" fill="#F2F2F2" x="1" y="3" width="1" height="1"></rect>
+                    <rect id="8" fill="#EDEDED" x="2" y="3" width="1" height="1"></rect>
+                    <rect id="7" fill="#CACACA" x="3" y="4" width="1" height="1"></rect>
+                    <rect id="6" fill="#D0D0D0" x="2" y="4" width="1" height="1"></rect>
+                    <rect id="5" fill="#D0D0D0" x="1" y="4" width="1" height="1"></rect>
+                    <rect id="4" fill="#E1E1E1" x="0" y="4" width="1" height="1"></rect>
+                    <rect id="3" fill="#DCDCDC" x="0" y="3" width="1" height="1"></rect>
+                    <rect id="2" fill="#D4D4D4" x="0" y="1" width="1" height="2"></rect>
+                    <rect id="1" fill="#FAFAFA" x="0" y="0" width="1" height="1"></rect>
+                </g>
+                <g id="grad" transform="translate(1.000000, 1.000000)">
+                    <rect id="4" fill="#FBFBFB" x="0" y="2" width="5" height="1"></rect>
+                    <rect id="3" fill="#F6F6F6" x="0" y="1" width="5" height="1"></rect>
+                    <rect id="2" fill="#EBEBEB" x="4" y="0" width="1" height="1"></rect>
+                    <rect id="1" fill="#F3F3F3" x="0" y="0" width="4" height="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
