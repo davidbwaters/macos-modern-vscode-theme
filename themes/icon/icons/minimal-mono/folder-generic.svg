@@ -3,13 +3,13 @@
     <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
     <title>folder-generic</title>
     <desc>Created with Sketch.</desc>
-    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.4">
-        <g id="minimal-mono" transform="translate(-26.000000, 0.000000)" fill="#000000" fill-rule="nonzero">
-            <g id="light">
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.503971">
+        <g id="minimal-mono" transform="translate(-88.000000, 0.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="dark" transform="translate(62.000000, 0.000000)">
                 <g id="folder" transform="translate(26.000000, 0.000000)">
+                    <path d="M6.61803399,2 L15,2 C15.5522847,2 16,2.44771525 16,3 L16,13 C16,13.5522847 15.5522847,14 15,14 L1,14 C0.44771525,14 0,13.5522847 0,13 L0,1 C0,0.44771525 0.44771525,0 1,0 L5,0 C5.37877206,0 5.72503518,0.214002376 5.89442719,0.552786405 L6.61803399,2 Z M1,5 L1,13 L15,13 L15,5 L1,5 Z M1,1 L1,4 L15,4 L15,3 L6,3 L5,1 L1,1 Z" id="stroke"></path>
                     <polygon id="lower" opacity="0.2" points="1 13 15 13 15 5 1 5"></polygon>
                     <polygon id="upper" opacity="0.1" points="1 1 5 1 6 3 15 3 15 4 1 4"></polygon>
-                    <path d="M6.61803399,2 L15,2 C15.5522847,2 16,2.44771525 16,3 L16,13 C16,13.5522847 15.5522847,14 15,14 L1,14 C0.44771525,14 0,13.5522847 0,13 L0,1 C0,0.44771525 0.44771525,0 1,0 L5,0 C5.37877206,0 5.72503518,0.214002376 5.89442719,0.552786405 L6.61803399,2 Z M1,5 L1,13 L15,13 L15,5 L1,5 Z M1,1 L1,4 L15,4 L15,3 L6,3 L5,1 L1,1 Z" id="stroke"></path>
                 </g>
             </g>
         </g>
