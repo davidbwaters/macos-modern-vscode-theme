@@ -1,10 +1,10 @@
 {
   "iconDefinitions": {
     "_folder": {
-      "iconPath": "./icons/legit-finder/folder-generic-lg.png"
+      "iconPath": "./icons/legit-finder/folder-generic.svg"
     },
     "_file": {
-      "iconPath": "./icons/legit-finder/file-generic-lg.png"
+      "iconPath": "./icons/legit-finder/file-generic.svg"
     }
   },
   "file": "_file",

@@ -1,10 +1,11 @@
 {
-	"name": "Dusk",
+	"$schema": "vscode://schemas/color-theme",
+	"type": "dark",
 	"colors": {
     "activityBar.background": "#333333",
     "activityBar.border": "#222",
-    "activityBar.foreground": "#aaa",
-    "activityBarBadge.background": "#DFDFDF",
+    "activityBar.foreground": "#DFDFDF",
+    "activityBarBadge.background": "#f84339",
     "activityBarBadge.foreground": "#ffffff",
 		"badge.background": "#f84339",
 		"badge.foreground": "#ffffff",
@@ -79,14 +80,13 @@
     "titleBar.border": "#171719",
     "widget.shadow": "#222222",
   },
-
 	"tokenColors": [
-		{
-			"settings": {
-				"background": "#1E2028",
-				"foreground": "#FFFFFF"
-			}
-		},
+		//{
+		//	"settings": {
+		//		"background": "#1F1F24",
+		//		"foreground": "#FFFFFF"
+		//	}
+		//},
 		{
 			"name": "Comment",
 			"scope": "comment",
@@ -98,21 +98,21 @@
 			"name": "String",
 			"scope": "string",
 			"settings": {
-				"foreground": "#DB2C38"
+				"foreground": "#FC6A5D"
 			}
 		},
 		{
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#786DC4"
+				"foreground": "#9686F5"
 			}
 		},
 		{
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#786DC4"
+				"foreground": "#9686F5"
 			}
 		},
 		{
@@ -122,7 +122,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#786DC4"
+				"foreground": "#9686F5"
 			}
 		},
 		{
@@ -130,14 +130,14 @@
 			"scope": "variable",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#41B645"
+				"foreground": "#53A5FB"
 			}
 		},
 		{
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#B21889"
+				"foreground": "#FC5FA3"
 			}
 		},
 		{
@@ -145,7 +145,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#B21889"
+				"foreground": "#FC5FA3"
 			}
 		},
 		{
@@ -181,7 +181,7 @@
 			"name": "Function argument",
 			"scope": "variable.parameter",
 			"settings": {
-				"foreground": "#C67C48"
+				"foreground": "#FD8F3F"
 			}
 		},
 		{
@@ -189,7 +189,7 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#B21889"
+				"foreground": "#FC5FA3"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"scope": "entity.other.attribute-name",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#55747C"
+				"foreground": "#75B492"
 			}
 		},
 		{
@@ -205,7 +205,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#00A0BE"
+				"foreground": "#7AC8B6"
 			}
 		},
 		{
@@ -213,7 +213,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#00A0BE"
+				"foreground": "#7AC8B6"
 			}
 		},
 		{
@@ -223,7 +223,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#00A0BE"
+				"foreground": "#7AC8B6"
 			}
 		},
 		{
@@ -231,8 +231,9 @@
 			"scope": "support.other.variable",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#41B645"
+				"foreground": "#746DB0"
 			}
 		}
-	]
+	],
+	"name": "MacOS Modern Dark - Xcode Default"
 }

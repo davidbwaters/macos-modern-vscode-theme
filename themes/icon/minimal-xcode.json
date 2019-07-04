@@ -1,10 +1,10 @@
 {
   "iconDefinitions": {
     "_folder": {
-      "iconPath": "./icons/minimal-xcode/folder-generic-lg.png"
+      "iconPath": "./icons/minimal-xcode/folder-generic.svg"
     },
     "_file": {
-      "iconPath": "./icons/minimal-xcode/file-generic-lg.png"
+      "iconPath": "./icons/minimal-xcode/file-generic.svg"
     }
   },
   "file": "_file",

@@ -1,10 +1,10 @@
 {
   "iconDefinitions": {
     "_folder": {
-      "iconPath": "./icons/minimal-finder/folder-generic-lg.png"
+      "iconPath": "./icons/minimal-finder/folder-generic.svg"
     },
     "_file": {
-      "iconPath": "./icons/minimal-finder/file-generic-lg.png"
+      "iconPath": "./icons/minimal-finder/file-generic.svg"
     }
   },
   "file": "_file",

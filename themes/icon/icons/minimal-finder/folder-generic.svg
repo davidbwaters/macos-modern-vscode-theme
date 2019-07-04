@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
     <title>folder-generic</title>
     <desc>Created with Sketch.</desc>
     <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Minimal-Color" transform="translate(-38.000000, 0.000000)" fill-rule="nonzero">
-            <g id="Folder---16" transform="translate(39.000000, 2.000000)">
-                <path d="M5.30901699,1.5 L14.5,1.5 L14.5,12.5 L-0.5,12.5 L-0.5,-0.5 L4.30901699,-0.5 L5.30901699,1.5 Z" id="upper" stroke="#53A8CF" fill="#91DCFF" stroke-linejoin="round"></path>
-                <polygon id="lower" fill="#77D0FA" points="0 12 14 12 14 3 0 3"></polygon>
-                <polygon id="lower" fill="#55ABD5" points="0 4 14 4 14 3 -1.94289029e-16 3"></polygon>
+        <g id="minimal-finder" transform="translate(-26.000000, 0.000000)" fill-rule="nonzero">
+            <g id="folder" transform="translate(26.000000, 0.000000)">
+                <path d="M6.61803399,2 L15,2 C15.5522847,2 16,2.44771525 16,3 L16,13 C16,13.5522847 15.5522847,14 15,14 L1,14 C0.44771525,14 0,13.5522847 0,13 L0,1 C0,0.44771525 0.44771525,0 1,0 L5,0 C5.37877206,0 5.72503518,0.214002376 5.89442719,0.552786405 L6.61803399,2 Z" id="body" fill="#69A6CB"></path>
+                <polygon id="lower" fill="#8CCEF6" points="1 13 15 13 15 5 1 5"></polygon>
+                <polygon id="upper" fill="#A2DAFB" points="1 1 5 1 6 3 15 3 15 4 1 4"></polygon>
             </g>
         </g>
     </g>

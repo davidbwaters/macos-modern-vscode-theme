@@ -1,10 +1,10 @@
 {
   "iconDefinitions": {
     "_folder": {
-      "iconPath": "./icons/legit-xcode/folder-generic-lg.png"
+      "iconPath": "./icons/legit-xcode/folder-generic.svg"
     },
     "_file": {
-      "iconPath": "./icons/legit-xcode/file-generic-lg.png"
+      "iconPath": "./icons/legit-xcode/file-generic.svg"
     }
   },
   "file": "_file",

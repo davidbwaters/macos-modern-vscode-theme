@@ -1,45 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
     <title>folder-generic</title>
     <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#84BBD9" offset="0%"></stop>
+            <stop stop-color="#72ADD2" offset="50%"></stop>
+            <stop stop-color="#69A6CB" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="90.9090909%" id="linearGradient-2">
+            <stop stop-color="#82C9F4" offset="0%"></stop>
+            <stop stop-color="#86CCF5" offset="50%"></stop>
+            <stop stop-color="#91D2F7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
     <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Finder-Color" transform="translate(-38.000000, 0.000000)">
-            <g id="Folder---16" transform="translate(38.000000, 0.000000)">
-                <g id="body" transform="translate(1.000000, 3.000000)">
-                    <rect fill="#77D0FA" x="0" y="0" width="14" height="10"></rect>
-                    <g id="gradient" fill-rule="nonzero">
-                        <rect id="bottom" fill="#92DBFC" x="0" y="9" width="14" height="1"></rect>
-                        <rect id="upper" fill="#6ECEF9" x="0" y="3" width="14" height="3"></rect>
-                        <rect id="top" fill="#69CBF8" x="0" y="0" width="14" height="3"></rect>
-                    </g>
-                </g>
-                <g id="shadow" transform="translate(0.000000, 14.000000)" fill="#444444">
-                    <rect id="left" fill-opacity="0.1" x="0" y="0" width="1" height="1"></rect>
-                    <rect id="mid" fill-opacity="0.15" x="1" y="0" width="14" height="1"></rect>
-                    <rect id="right" fill-opacity="0.1" x="15" y="0" width="1" height="1"></rect>
-                </g>
-                <g id="lower" transform="translate(0.000000, 12.000000)">
-                    <rect id="right-lower" fill="#83D6FA" x="15" y="1" width="1" height="1"></rect>
-                    <rect id="right-upper" fill="#6CB9DB" x="15" y="0" width="1" height="1"></rect>
-                    <rect id="mid" fill="#53A8CF" x="1" y="1" width="14" height="1"></rect>
-                    <rect id="left-upper" fill="#6EBBDB" x="0" y="0" width="1" height="1"></rect>
-                    <rect id="left-lower" fill="#8ADDFF" x="0" y="1" width="1" height="1"></rect>
-                </g>
-                <g id="right" transform="translate(15.000000, 3.000000)">
-                    <rect id="right-3" fill="#55ABD5" x="0" y="6" width="1" height="3"></rect>
-                    <rect id="right-2" fill="#5EAFD6" x="0" y="4" width="1" height="2"></rect>
-                    <rect id="right-1" fill="#60B3D7" x="0" y="0" width="1" height="4"></rect>
-                </g>
-                <g id="upper">
-                    <rect id="corner-right" fill="#B9FFFF" x="15" y="2" width="1" height="1"></rect>
-                    <rect id="corner-left" fill="#C5FFFF" x="0" y="0" width="1" height="1"></rect>
-                    <polygon id="bottom" fill="#73BDDC" points="0 1 1 1 1 2 15 2 15 3 0 3"></polygon>
-                    <rect id="right" fill="#7AC8E9" x="6" y="1" width="1" height="1"></rect>
-                    <rect id="top" fill="#71BCDC" x="1" y="0" width="5" height="1"></rect>
-                </g>
-                <rect id="left" fill="#54AAD3" x="0" y="3" width="1" height="9"></rect>
-                <rect id="top" fill="#91DCFF" x="1" y="1" width="5" height="1"></rect>
+        <g id="legit-finder" transform="translate(-26.000000, 0.000000)" fill-rule="nonzero">
+            <g id="folder" transform="translate(26.000000, 0.000000)">
+                <path d="M7.61569036,2 L15,2 C15.5522847,2 16,2.44771525 16,3 C16,3.66666667 16,4.16666667 16,4.5 C16,6.38888889 16,9.22222222 16,13 C16,13.5522847 15.5522847,14 15,14 L1,14 C0.44771525,14 0,13.5522847 0,13 L0,1 C0,0.44771525 0.44771525,0 1,0 L6,0 C6.43476444,0 6.8047271,0.277449417 6.94248949,0.664949768 L7.61569036,2 Z" id="body" fill="url(#linearGradient-1)"></path>
+                <path d="M1,12 L1,12.9545455 C1,12.9796493 1.20893378,13 1.46666667,13 L14.5333333,13 C14.7910662,13 15,12.9796493 15,12.9545455 L15,12.0454545 C15,12.0203507 14.7910662,12 14.5333333,12 L1,12 Z" id="bottom" fill="#A2D9F8"></path>
+                <path d="M1,3 L1,11.5909091 C1,11.8168438 1.20893378,12 1.46666667,12 L14.5333333,12 C14.7910662,12 15,11.8168438 15,11.5909091 L15,3.40909091 C15,3.18315624 14.7910662,3 14.5333333,3 L1,3 Z" id="lower" fill="url(#linearGradient-2)"></path>
+                <path d="M1,2 L1,1.33333333 C1,1.14923842 1.17071607,1 1.38130501,1 L5.19435514,1 C5.35704259,1 5.50026115,1.08989943 5.55383134,1.22162524 L6,2 L1,2 Z" id="upper" fill="#A2DAFB"></path>
             </g>
         </g>
     </g>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
     <title>file-generic</title>
     <desc>Created with Sketch.</desc>
     <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Minimal-Color" fill-rule="nonzero">
-            <g id="File---16" transform="translate(2.000000, 0.000000)">
+        <g id="minimal-finder" fill-rule="nonzero">
+            <g id="file" transform="translate(2.000000, 0.000000)">
+                <path d="M0,0 L7.41421356,0 L12,4.58578644 L12,16 L0,16 L0,0 Z M1,1 L1,15 L11,15 L11,6 L6,6 L6,1 L1,1 Z M7,5 L11,5 L7,1 L7,5 Z" id="stroke" fill="#AAAAAA"></path>
                 <polygon id="page" fill="#FFFFFF" points="1 1 1 15 11 15 11 6 6 6 6 1"></polygon>
                 <polygon id="corner" fill="#FFFFFF" points="7 5 11 5 7 1"></polygon>
-                <path d="M0,0 L7.41421356,0 L12,4.58578644 L12,16 L0,16 L0,0 Z M1,1 L1,15 L11,15 L11,6 L6,6 L6,1 L1,1 Z M7,5 L11,5 L7,1 L7,5 Z" id="stroke" fill="#AAAAAA"></path>
             </g>
         </g>
     </g>
