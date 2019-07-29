@@ -109,6 +109,7 @@
 		"tab.border": "#3d3c40",
 		"tab.inactiveBackground": "#303136",
 		"tab.inactiveForeground": "#b7b7b7",
+    "tab.unfocusedActiveForeground": "#c5c5c5",
 		"tab.unfocusedActiveBorder": "#00000000",
 		"tab.unfocusedActiveForeground": "#ffffff15",
 		"textBlockQuote.background": "#ff0000",
