@@ -330,7 +330,8 @@
 				"constant.language"
 			],
 			"settings": {
-				"foreground": "#fe7ab2"
+				"foreground": "#fe7ab2",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -390,8 +391,8 @@
 				"punctuation.separator.key-value"
 			],
 			"settings": {
-				"foreground": "#fe7ab2"
-				
+				"foreground": "#fe7ab2",
+				"fontStyle": "bold"
 			}
 		},
 		{

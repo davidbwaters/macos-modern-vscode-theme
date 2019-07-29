@@ -886,6 +886,7 @@
 				"meta.separator"
 			],
 			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#65737E"
 			}
 		},
@@ -1337,7 +1338,8 @@
 				"punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#34c9c6"
+				"foreground": "#34c9c6",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -1346,7 +1348,8 @@
 				"markup.bold.markdown"
 			],
 			"settings": {
-				"foreground": "#E12DA0"
+				"foreground": "#E12DA0",
+				"fontStyle": "bold"
 			}
 		},
 		{
