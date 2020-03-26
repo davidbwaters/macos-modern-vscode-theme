@@ -39,9 +39,10 @@
 		"errorForeground": "#ff0000",
 		"focusBorder": "#ffffff",
 		"foreground": "#222222",
-		"input.background": "#ffffff",
+		"input.background": "#fcfcfc",
 		"input.border": "#bfbfbf",
 		"input.foreground": "#222222",
+    "inputOption.activeBackground": "#E7E7E7",
 		"list.activeSelectionBackground": "#cedeef",
 		"list.activeSelectionForeground": "#2e2e2e",
 		"list.dropBackground": "#dedcde",
@@ -77,6 +78,9 @@
 		"tab.inactiveForeground": "#666666",
 		"tab.unfocusedActiveBorder": "#ffffff00",
 		"tab.unfocusedActiveBorderTop": "#ffffff00",
+		"textBlockQuote.background": "#ff000000",
+		"textBlockQuote.border": "#ff000000",
+		"textCodeBlock.background": "#ff000000",
 		"titleBar.border": "#bdbdbd",
 		"widget.shadow": "#dddddd",
 		//"activityBar.dropBackground": "#ffffff1f",
@@ -239,12 +243,6 @@
 	},
 	"tokenColors": [
 		{
-			"settings": {
-				"background": "#FFFFFF",
-				"foreground": "#000000"
-			}
-		},
-		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
@@ -394,7 +392,6 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"background": "#F9267200",
 				"fontStyle": "",
 				"foreground": "#255E22"
 			}
@@ -403,7 +400,6 @@
 			"name": "Invalid deprecated",
 			"scope": "invalid.deprecated",
 			"settings": {
-				"background": "#AE81FF00",
 				"foreground": "#255E22"
 			}
 		}
