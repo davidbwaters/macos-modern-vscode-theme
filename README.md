@@ -24,14 +24,14 @@ There are a few settings that should be added to your User Settings to really tr
 
 ```json
  // MacOS Modern Tweaks
-"window.titleBarStyle": "native",
-"window.nativeTabs": true,
-"window.zoomLevel": -0.5,
-"workbench.iconTheme": "macos-modern-color-icon-theme",
 "editor.fontSize": 12,
 "editor.fontFamily": "SF Mono, Monaco",
 "editor.tabSize": 2,
 "editor.fontWeight": "normal",
+"window.titleBarStyle": "native",
+"window.nativeTabs": true,
+"window.zoomLevel": -0.5,
+"workbench.iconTheme": "macos-modern-color-icon-theme",
 
 // Disable Tab File Icons
 "workbench.editor.showIcons": false,
