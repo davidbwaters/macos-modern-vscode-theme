@@ -301,7 +301,7 @@
 		{
 			"name": "String",
 			"scope": [
-				"string.quoted"
+				"string"
 			],
 			"settings": {
 				"foreground": "#fe8170"
