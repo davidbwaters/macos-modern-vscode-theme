@@ -65,6 +65,7 @@
 		"sideBar.foreground": "#222222",
 		"sideBarSectionHeader.background": "#f9f5f5",
 		"sideBarSectionHeader.foreground": "#666666",
+		"sideBarSectionHeader.border": "#f9f5f500",
 		"sideBarTitle.foreground": "#444444",
 		"statusBar.background": "#ededed",
     "statusBar.noFolderBackground" : "#ededed",
