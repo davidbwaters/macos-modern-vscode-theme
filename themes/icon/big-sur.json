@@ -1,16 +1,16 @@
 {
   "iconDefinitions": {
     "_folder": {
-      "iconPath": "./icons/minimal-mono/folder-generic.svg"
+      "iconPath": "./icons/big-sur/folder-generic.svg"
     },
     "_file": {
-      "iconPath": "./icons/minimal-mono/file-generic.svg"
+      "iconPath": "./icons/big-sur/file-generic.svg"
     },
     "_folder-lt": {
-      "iconPath": "./icons/minimal-mono/folder-generic-light.svg"
+      "iconPath": "./icons/big-sur/folder-generic-light.svg"
     },
     "_file-lt": {
-      "iconPath": "./icons/minimal-mono/file-generic-light.svg"
+      "iconPath": "./icons/big-sur/file-generic-light.svg"
     }
   },
   "file": "_file",
