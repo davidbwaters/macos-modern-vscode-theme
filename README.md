@@ -8,19 +8,13 @@ Added light Big Sur Versions + Icons. Dark coming soon ...
 
 ---
 
-macOS Modern is a set of Visual Studio Code themes styled to match native macOS as closely as possible.  Updated to include dark + light versions and a few minimal icon themes. Reapply both (icon and color) themes if you have problems. I HIGHLY recommend using the settings below for best results. Screenshots need to be updated; there is a lot more options now. The dark theme has just got an overhaul!
+macOS Modern is a set of Visual Studio Code themes styled to match native macOS as closely as possible.  Updated to include dark + light versions and a few minimal icon themes. Reapply both (icon and color) themes if you have problems. I HIGHLY recommend using the settings below for best results
 
-**macOS Modern - Xcode Low Key** + **macOS Modern Minimal Icons**
-![Minimal](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/screenshot1.png)
+![Low Key](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/screenshot1.jpg)
 
-**Dark**
-![dark](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/screenshot1b.png)
+![Dark](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/screenshot1b.png)
 
-**macOS Modern - Xcode Default** + **macOS Modern - Color Icons**
-![Xcode](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/screenshot2.png)
-
-**macOS Modern - Xcode Low Key** + **macOS Modern - Color Icons**
-![Low Key](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/screenshot3.png)
+![Default](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/screenshot2.jpg)
 
 ---
 
