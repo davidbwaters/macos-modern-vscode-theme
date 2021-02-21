@@ -75,7 +75,7 @@
 		"textBlockQuote.border": "#ff000000",
 		"textCodeBlock.background": "#ff000000",
 		"titleBar.border": "#bdbdbd",
-		"widget.shadow": "#dddddd"
+		"widget.shadow": "#dddddd",
     "activityBarBadge.background": "#199aff",
     "activityBarBadge.foreground": "#ffffff",
     "badge.background": "#199aff",

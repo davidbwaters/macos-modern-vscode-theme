@@ -2,6 +2,8 @@
   "name": "MacOS Modern - Xcode Default",
   "$schema": "vscode://schemas/color-theme",
   "type": "light",
+  "colors": {
+
     "activityBar.background": "#e7e7e7",
     "activityBar.border": "#d5d5d5",
     "activityBar.foreground": "#5c5c5c",
@@ -89,7 +91,6 @@
     "textCodeBlock.background": "#ff000000",
     "titleBar.border": "#bdbdbd",
     "widget.shadow": "#dddddd"
-  "colors": {
   },
   "tokenColors": [
     {
