@@ -1,7 +1,6 @@
 
 # macOS Modern Theme
 
-
 ## Big Sur
 
 Added light Big Sur Versions + Icons. Dark coming soon ...
