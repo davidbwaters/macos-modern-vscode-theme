@@ -2,7 +2,7 @@
 	"name": "macos-modern-theme",
 	"displayName": "MacOS Modern Theme",
 	"description": "MacOS Modern is a theme pack styled to match native MacOS as closely as possible. Use recommended settings in the README.md for best results.",
-	"version": "2.0.3",
+	"version": "2.1.0",
 	"publisher": "davidbwaters",
 	"engines": {
 		"vscode": "^1.25.0"
@@ -30,6 +30,21 @@
 	],
 	"contributes": {
 		"themes": [
+			{
+				"label": "MacOS Modern Dark - Big Sur Xcode Civic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/color/big-sur-dark/xcode-civic.json"
+			},
+			{
+				"label": "MacOS Modern Dark - Big Sur Xcode Catalina",
+				"uiTheme": "vs-dark",
+				"path": "./themes/color/big-sur-dark/xcode-catalina.json"
+			},
+			{
+				"label": "MacOS Modern Dark - Big Sur Xcode Default",
+				"uiTheme": "vs-dark",
+				"path": "./themes/color/big-sur-dark/xcode-default-dark.json"
+			},
 			{
 				"label": "MacOS Modern Light - Big Sur Xcode",
 				"uiTheme": "vs",
