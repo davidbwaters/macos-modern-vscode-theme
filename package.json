@@ -5,7 +5,7 @@
 	"version": "2.1.4",
 	"publisher": "davidbwaters",
 	"engines": {
-		"vscode": "^1.25.0"
+		"vscode": "^1.25.1"
 	},
 	"keywords": [
 		"color-theme",

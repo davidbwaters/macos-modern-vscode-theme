@@ -92,9 +92,10 @@ Light and dark VSCode icons are also included in full quality (don't use the sma
 `~/.vscode/extensions/davidbwaters.macOS-modern-theme/extras/app-icons`
 You could also download the files from the repo [folder](https://github.com/davidbwaters/macOS-modern-vscode-theme/tree/master/extras) by clicking the name of the `icns` or `png` and clicking the "Download" button. You can use the free app [LiteIcon](https://freemacsoft.net/liteicon/) to change the icon.
 
-![VSCode](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/icon-big-sur-insiders.png) ![VSCode Insiders](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/icon-big-sur-insiders.png)
+![VSCode Insiders](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/icon-big-sur-insiders.png)
 
-![Old Dark](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/icon-dark.png) ![Old Light](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/icon-big-sur-insiders.png)
+![VSCode](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/icon-big-sur.png)
+
 
 There are also Sketch design files with all the icons. Feel free to use, tweak, add, etc. If you find them useful, a shoutout would be appreciated.
 
