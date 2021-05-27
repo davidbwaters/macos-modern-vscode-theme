@@ -9,19 +9,19 @@ Added Big Sur Versions + Icons!
 
 macOS Modern is a set of Visual Studio Code themes styled to match native macOS as closely as possible.  Updated to include dark + light versions and a few minimal icon themes. Reapply both (icon and color) themes if you have problems. I HIGHLY recommend using the settings below for best results
 
-(https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/shot1.png)
+![Shot](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/shot1.png)
 
-(https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/shot2.png)
+![Shot](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/shot2.png)
 
-(https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/shot3.png)
+![Shot](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/shot3.png)
 
-(https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/shot4.png)
+![Shot](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/shot4.png)
 
-(https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/shot5.png)
+![Shot](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/shot5.png)
 
-(https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/shot6.png)
+![Shot](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/shot6.png)
 
-(https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/shot7.png)
+![Shot](https://github.com/davidbwaters/macOS-modern-vscode-theme/raw/master/images/shot7.png)
 
 ---
 
