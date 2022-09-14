@@ -1,9 +1,9 @@
 
 # macOS Modern Theme
 
-## Big Sur
+## Big Sur / Monterey
 
-Added Big Sur Versions + Icons!
+Added Big Sur / Monterey Versions + Icons!
 
 ---
 
