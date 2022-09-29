@@ -2,7 +2,7 @@
 	"name": "macos-modern-theme",
 	"displayName": "MacOS Modern Theme",
 	"description": "MacOS Modern is a theme pack styled to match native MacOS as closely as possible. Use recommended settings in the README.md for best results.",
-	"version": "2.1.13",
+	"version": "2.2.0",
 	"publisher": "davidbwaters",
 	"engines": {
 		"vscode": "^1.25.0"
@@ -31,44 +31,19 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "MacOS Modern Dark - Big Sur Xcode Civic",
+				"label": "MacOS Modern Dark - Ventura Xcode Civic",
 				"uiTheme": "vs-dark",
 				"path": "./themes/color/big-sur-dark/xcode-civic.json"
 			},
 			{
-				"label": "MacOS Modern Dark - Big Sur Xcode",
+				"label": "MacOS Modern Dark - Ventura Xcode",
 				"uiTheme": "vs-dark",
 				"path": "./themes/color/big-sur-dark/xcode-catalina.json"
 			},
 			{
-				"label": "MacOS Modern Dark - Big Sur Xcode Default",
+				"label": "MacOS Modern Dark - Ventura Xcode Default",
 				"uiTheme": "vs-dark",
 				"path": "./themes/color/big-sur-dark/xcode-default-dark.json"
-			},
-			{
-				"label": "MacOS Modern Light - Big Sur Xcode",
-				"uiTheme": "vs",
-				"path": "./themes/color/big-sur-light/xcode-big-sur.json"
-			},
-			{
-				"label": "MacOS Modern Light - Big Sur Xcode Default",
-				"uiTheme": "vs",
-				"path": "./themes/color/big-sur-light/xcode-default.json"
-			},
-			{
-				"label": "MacOS Modern Light - Big Sur Xcode Low Key",
-				"uiTheme": "vs",
-				"path": "./themes/color/big-sur-light/xcode-low-key.json"
-			},
-			{
-				"label": "MacOS Modern Light - Xcode Default",
-				"uiTheme": "vs",
-				"path": "./themes/color/light/xcode-default.json"
-			},
-			{
-				"label": "MacOS Modern Light - Xcode Low Key",
-				"uiTheme": "vs",
-				"path": "./themes/color/light/xcode-low-key.json"
 			},
 			{
 				"label": "MacOS Modern Dark - Xcode Civic",
@@ -84,12 +59,37 @@
 				"label": "MacOS Modern Dark - Xcode Default",
 				"uiTheme": "vs-dark",
 				"path": "./themes/color/dark/xcode-default-dark.json"
+			},
+			{
+				"label": "MacOS Modern Light - Ventura Xcode",
+				"uiTheme": "vs",
+				"path": "./themes/color/big-sur-light/xcode-big-sur.json"
+			},
+			{
+				"label": "MacOS Modern Light - Ventura Xcode Default",
+				"uiTheme": "vs",
+				"path": "./themes/color/big-sur-light/xcode-default.json"
+			},
+			{
+				"label": "MacOS Modern Light - Ventura Xcode Low Key",
+				"uiTheme": "vs",
+				"path": "./themes/color/big-sur-light/xcode-low-key.json"
+			},
+			{
+				"label": "MacOS Modern Light - Xcode Default",
+				"uiTheme": "vs",
+				"path": "./themes/color/light/xcode-default.json"
+			},
+			{
+				"label": "MacOS Modern Light - Xcode Low Key",
+				"uiTheme": "vs",
+				"path": "./themes/color/light/xcode-low-key.json"
 			}
 		],
 		"iconThemes": [
 			{
 				"id": "macos-modern-big-sur-icon-theme",
-				"label": "MacOS Modern - Big Sur Icons",
+				"label": "MacOS Modern - Ventura Icons",
 				"path": "./themes/icon/big-sur.json"
 			},
 			{
