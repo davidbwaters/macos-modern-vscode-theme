@@ -2,7 +2,7 @@
 	"name": "macos-modern-theme",
 	"displayName": "MacOS Modern Theme",
 	"description": "MacOS Modern is a theme pack styled to match native MacOS as closely as possible. Use recommended settings in the README.md for best results.",
-	"version": "2.2.0",
+	"version": "2.3.0",
 	"publisher": "davidbwaters",
 	"engines": {
 		"vscode": "^1.25.0"
@@ -117,7 +117,21 @@
 				"label": "MacOS Modern - Minimal Monochrome Icons",
 				"path": "./themes/icon/minimal-mono.json"
 			}
-		]
+		],
+    "productIconThemes": [
+      {
+        "id": "macos-modern",
+        "label": "MacOS Modern",
+        "path": "./themes/product-icon/macos-modern.json"
+      }
+    ]
+	},
+	"scripts": {
+		"updateFont": "node ./build/updateFont.js"
+	},
+	"devDependencies": {
+		"open": "^7.0.3",
+		"webfont": "^11.2.4"
 	},
 	"__metadata": {
 		"id": "ad4ee4d7-9d78-49e4-801e-b2fef4eaff6e",

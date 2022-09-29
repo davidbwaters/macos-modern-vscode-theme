@@ -1,0 +1,47 @@
+{
+	"fonts": [
+		{
+			"id": "vscode",
+			"src": [
+				{
+					"path": "./vscode.woff",
+					"format": "woff"
+				}
+			],
+			"weight": "normal",
+			"style": "normal",
+		}
+	],
+	"iconDefinitions": {
+		"explorer-view-icon": {
+			"fontCharacter": "\\e000"
+		},
+		"search-view-icon": {
+			"fontCharacter": "\\e001"
+		},
+		"run-view-icon": {
+			"fontCharacter": "\\e002"
+		},
+		"source-control-view-icon": {
+			"fontCharacter": "\\e003"
+		},
+		"extensions-view-icon": {
+			"fontCharacter": "\\e004"
+		},
+    "remote-explorer-view-icon": {
+			"fontCharacter": "\\e005"
+    },
+		"feedback": {
+			"fontCharacter": "\\e006"
+		},
+		"folding-expanded": {
+			"fontCharacter": "\\e007"
+		},
+		"folding-collapsed": {
+			"fontCharacter": "\\e008"
+		},
+		"tree-item-expanded": {
+			"fontCharacter": "\\e009"
+		}
+	}
+}
