@@ -13,7 +13,8 @@ const svgs = [
   "folding-expanded.svg",
   "folding-collapsed.svg",
   "expando-expanded.svg",
-  "expando-collapsed.svg"
+  "expando-collapsed.svg",
+  "settings-view-bar.svg"
 ].map(name => path.join(__dirname, '..', 'themes', 'product-icon', 'icons', name));
 
 async function generateFont() {

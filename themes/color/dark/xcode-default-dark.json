@@ -53,7 +53,7 @@
 		"selection.background": "#303237",
 		"sideBar.background": "#303136",
 		"sideBar.border": "#1a191c",
-		"sideBar.dropBackground": "#2c2d30",
+		"sideBar.dropBackground": "#303136",
 		"sideBar.foreground": "#eaf0f6",
 		"sideBarSectionHeader.background": "#3031367a",
 		"sideBarSectionHeader.border": "#303136a0",

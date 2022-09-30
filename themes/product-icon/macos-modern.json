@@ -42,6 +42,9 @@
 		},
 		"tree-item-expanded": {
 			"fontCharacter": "\\e009"
+		},
+		"settings-view-bar-icon": {
+			"fontCharacter": "\\e00B"
 		}
 	}
 }
