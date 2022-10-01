@@ -1,9 +1,9 @@
 
 # macOS Modern Theme
 
-## Big Sur / Monterey
+## Ventura
 
-Added Big Sur / Monterey Versions + Icons!
+Added Ventura Versions + Icons!
 
 ---
 
