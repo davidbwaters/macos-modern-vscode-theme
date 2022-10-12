@@ -2,8 +2,9 @@
   "name": "MacOS Modern Dark - Xcode Default Big Sur",	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
+		"activityBar.activeBackground": "#45464a57",
     "activityBar.activeBorder": "#128cff",
-
+		"activityBar.activeFocusBorder": "#101010",
     "activityBar.background": "#353333",
     "activityBar.border": "#101010",
     "activityBar.foreground": "#128cff",
@@ -77,7 +78,7 @@
     "list.hoverBackground": "#464646",
     "list.inactiveFocusBackground": "#464646",
     "list.inactiveSelectionBackground": "#464646",
-    "minimap.background": "#1f1e1e",
+    "minimap.background": "#00000079",
     "panel.background": "#2c2c2b",
     "panelInput.border": "#101010",
     "panelSection.border": "#101010",

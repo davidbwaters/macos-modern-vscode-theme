@@ -9,12 +9,12 @@ const svgs = [
   "git-view.svg",
   "extensions-view.svg",
   "remote-explorer-view.svg",
-  "smiley.svg",
+  "settings-view-bar.svg",
+  "accounts-view-bar.svg",
   "folding-expanded.svg",
   "folding-collapsed.svg",
   "expando-expanded.svg",
   "expando-collapsed.svg",
-  "settings-view-bar.svg"
 ].map(name => path.join(__dirname, '..', 'themes', 'product-icon', 'icons', name));
 
 async function generateFont() {

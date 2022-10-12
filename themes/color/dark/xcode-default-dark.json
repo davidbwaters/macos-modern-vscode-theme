@@ -4,7 +4,8 @@
 	"colors": {
 		"activityBar.background": "#303136",
 		"activityBar.border": "#414045",
-		"activityBar.foreground": "#dfdfdf",
+		"activityBar.foreground": "#ffffff",
+		"activityBar.inactiveForeground": "#ffffff74",
     "activityBarBadge.background": "#199aff",
     "activityBarBadge.foreground": "#ffffff",
     "badge.background": "#199aff",
@@ -48,6 +49,7 @@
 		"list.inactiveSelectionForeground": "#ffffff",
 		"list.invalidItemForeground": "#ffffff",
 		"list.warningForeground": "#ffffff",
+    "minimap.background": "#00000079",
 		"panel.background": "#242529",
 		"panel.border": "#4d4d50",
 		"selection.background": "#303237",

@@ -31,20 +31,17 @@
     "remote-explorer-view-icon": {
 			"fontCharacter": "\\e005"
     },
-		"feedback": {
+		"settings-view-bar-icon": {
 			"fontCharacter": "\\e006"
 		},
-		"folding-expanded": {
+		"accounts-view-bar-icon": {
 			"fontCharacter": "\\e007"
 		},
-		"folding-collapsed": {
+		"folding-expanded": {
 			"fontCharacter": "\\e008"
 		},
-		"tree-item-expanded": {
+		"folding-collapsed": {
 			"fontCharacter": "\\e009"
-		},
-		"settings-view-bar-icon": {
-			"fontCharacter": "\\e00B"
 		}
 	}
 }

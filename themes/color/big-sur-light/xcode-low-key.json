@@ -3,6 +3,7 @@
   "$schema": "vscode://schemas/color-theme",
   "type": "light",
   "colors": {
+		"activityBar.activeBackground": "#d3d3d564",
     "activityBar.activeBorder": "#128cff",
     "activityBar.background": "#e6e6e5",
     "activityBar.border": "#dcdcdb",
@@ -59,6 +60,7 @@
     "list.inactiveSelectionForeground": "#2e2d2e",
     "list.invalidItemForeground": "#2e2e2e",
     "list.warningForeground": "#2e2e2e",
+    "minimap.background": "#ffffff79",
     "selection.background": "#cedeef",
     "sideBar.background": "#f8f8f7",
     "sideBar.border": "#e5e5e5",
