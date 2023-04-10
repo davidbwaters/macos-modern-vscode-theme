@@ -2,6 +2,9 @@
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
+		"activityBar.activeBorder": "#414045",
+		"activityBar.activeFocusBorder": "#414045",
+		"activityBar.activeBackground": "#303136",
 		"activityBar.background": "#303136",
 		"activityBar.border": "#414045",
 		"activityBar.foreground": "#ffffff",

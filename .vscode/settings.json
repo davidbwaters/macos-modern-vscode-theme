@@ -1,3 +1,5 @@
 {
-  "svg.preview.background": "dark-transparent"
+  "svg.preview.background": "dark-transparent",
+  "editor.tabCompletion": "on",
+  "diffEditor.codeLens": true
 }
