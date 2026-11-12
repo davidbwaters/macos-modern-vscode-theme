@@ -1,0 +1,6 @@
+/* Hide the PDF toolbar's leftover bottom edge while it is offscreen.
+   Preserve its normal border and shadow when revealed on hover. */
+.toolbar.hide:not(:hover) #toolbarContainer {
+    box-shadow: none;
+    border-bottom: none;
+}

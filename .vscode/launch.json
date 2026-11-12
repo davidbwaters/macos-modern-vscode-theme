@@ -6,12 +6,15 @@
 	"version": "0.2.0",
     "configurations": [
         {
-            "name": "Extension",
+            "name": "Preview macOS Modern Theme",
             "type": "extensionHost",
             "request": "launch",
             "runtimeExecutable": "${execPath}",
             "args": [
-                "--extensionDevelopmentPath=${workspaceFolder}"
+                "--extensionDevelopmentPath=${workspaceFolder}",
+                "--user-data-dir=${workspaceFolder}/.vscode-test/user-data",
+                "--extensions-dir=${workspaceFolder}/.vscode-test/extensions",
+                "${workspaceFolder}"
             ]
         }
     ]
